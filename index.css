@@ -1,0 +1,20 @@
+h1 {
+    font-family: sans-serif;
+    color: rgb(105, 255, 205);
+    display: flex;
+    justify-content: right;
+    }
+
+.list {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: Yellow;
+    font-size: x-large;
+    margin-top: 200px;
+    margin-left: 300px;
+    margin-bottom: 100px;
+}
+
+html{
+    background-color: rgba(247, 116, 9, 0.352);
+}
+    
